@@ -13,6 +13,7 @@ import java.util.ArrayList;
  *
  * @author dancye
  * @author Paul Bonenfant Jan 2020
+ * @author ShamsheerKhan March 2023
  */
 public abstract class Game {
 
@@ -55,4 +56,4 @@ public abstract class Game {
      */
     public abstract void declareWinner();
 
-}//end class
+}

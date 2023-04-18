@@ -10,13 +10,13 @@ package ca.sheridancollege.project;
  * game. Students wishing to add to the code should remember to add themselves as a modifier.
  *
  * @author dancye
+ * @author ShamsheerKhan March 2023
  */
 public abstract class Card {
     //default modifier for child classes
 
     /**
      * Students should implement this method for their specific children classes
-     *
      * @return a String representation of a card. Could be an UNO card, a regular playing card etc.
      */
     @Override
